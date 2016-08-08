@@ -1,0 +1,51 @@
+body{
+  padding: ;
+  margin: ;
+  font-family: "helvatica"
+
+}
+
+
+navigation-bar{
+  width:
+  margin:
+  padding
+  list-style: none;
+  display:flex
+}
+
+!--where is this ul.navaigation coming from?--!
+ul.navigation li{
+  position: relative;
+  flex:1
+}
+
+
+ul.navigation li img{
+width:100%;
+}
+
+ul.naviagation il img{
+  position: absolute;;
+  bottom: 1em;
+  left: 1em;
+}
+
+ul.naviagation il img link{
+  background-color: rgba(light blue)
+  color:white;
+  bottom: 0;
+  left:0;
+  top:0;
+  right:0;
+  vertical-align: bottom;
+}
+
+ul.naviagation il img visited{
+  color:white;
+
+
+
+  backgroun color: white;
+  text
+}

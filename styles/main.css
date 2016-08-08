@@ -1,0 +1,37 @@
+header{
+  Display: flex;
+}
+
+.container {width:980px
+  margin: 0 auto;
+}
+
+.rightside {
+      float: right;
+      width:200px;
+  }
+
+}
+.navigation-bar{
+
+  justify-content: space-between;
+}
+
+
+
+
+.main-middle-header{
+  border-left: 1px solid black;
+}
+
+.image{
+  position: relative;
+  width: auto;
+}
+
+h2.bottomone{
+  position: absolute;
+  top:auto;
+  left:0;
+  width: 100%;
+}
